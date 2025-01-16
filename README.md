@@ -22,7 +22,7 @@ certificados/
 ├── Segurity/         # Certificados de Segurança da Informação e ferramentas relacionadas
 ├── IA/               # Certificados de Inteligência Artificial, conceitos e ferramentas relacionadas
 ├── Education/        # Certificados de Formação academica (fundamental, médio, graduações...)
-├── Others/           # Certificados diversos (Scrum, PO, gestão, idiomas...)
+├── Others/           # Certificados diversos (Agile, Scrum, PO, gestão, idiomas...)
 └── README.md         # Este arquivo
 
 Cada pasta contém:
