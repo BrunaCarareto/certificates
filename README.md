@@ -7,7 +7,7 @@ Ele serve como um registro organizado das qualificações e conquistas que demon
 ## Objetivo
 Este repositório é destinado a:
 - Exibir os certificados conquistados em cursos, treinamentos e certificações formais.
-- Demonstrar minhas habilidades e conhecimentos em diversas áreas de TI, como **QA**, **Desenvolvimento**, **DevOps**, **Cloud Computing**, entre outras.
+- Demonstrar minhas habilidades e conhecimentos em diversas áreas de TI, como **QA**, **DEV**, **DevOps**, **Cloud Computing**, **IA**, entre outras.
 - Ser uma referência pública do meu progresso e expertise na área.
 
 ## Estrutura do Repositório
@@ -15,16 +15,18 @@ Os certificados estão organizados por categorias para facilitar a navegação:
 
 ```plaintext
 certificados/
-├── QA/               # Certificados relacionados a Qualidade de Software
-├── Desenvolvimento/  # Certificados de Desenvolvimento de Software
+├── QA/               # Certificados de Qualidade de Software e ferramentas relacionadas
+├── DEV/              # Certificados de Desenvolvimento de Software e ferramentas relacionadas
 ├── DevOps/           # Certificados de DevOps e ferramentas relacionadas
-├── Cloud/            # Certificados de Computação em Nuvem
-├── Segurança/        # Certificados de Segurança da Informação
-├── Outros/           # Certificados diversos (soft skills, gestão, etc.)
+├── Cloud/            # Certificados de Computação em Nuvem e ferramentas relacionadas
+├── Segurity/         # Certificados de Segurança da Informação e ferramentas relacionadas
+├── IA/               # Certificados de Inteligência Artificial, conceitos e ferramentas relacionadas
+├── Education/        # Certificados de Formação academica (fundamental, médio, graduações...)
+├── Others/           # Certificados diversos (Scrum, PO, gestão, idiomas...)
 └── README.md         # Este arquivo
 
 Cada pasta contém:
-   Uma cópia digital do certificado (formato PDF ou imagem).
+   Uma cópia digital de cada certificado (formato PDF ou imagem).
 
 Como Navegar
    Acesse a pasta correspondente à área de interesse, clique no arquivo para visualizar o certificado.
