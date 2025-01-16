@@ -1,7 +1,7 @@
 # Certificados
 Bem-vindo ao meu repositório de **Certificados**! 🎓
 
-Este repositório público foi criado com o objetivo de apresentar meu portfólio de certificados obtidos ao longo da minha carreira na área de **Tecnologia da Informação (TI)**. 
+Este repositório foi criado com o objetivo de apresentar meu portfólio de certificados obtidos ao longo da minha carreira na área de **Tecnologia da Informação (TI)**. 
 Ele serve como um registro organizado das qualificações e conquistas que demonstram meu comprometimento com aprendizado contínuo e desenvolvimento profissional.
 
 ## Objetivo
