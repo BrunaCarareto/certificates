@@ -14,23 +14,21 @@ Este repositório é destinado a:
 Os certificados estão organizados por categorias para facilitar a navegação:
 
 ```plaintext
-certificados/
-├── QA/               # Certificados de Qualidade de Software e ferramentas relacionadas
-├── DEV/              # Certificados de Desenvolvimento de Software e ferramentas relacionadas
-├── DevOps/           # Certificados de DevOps e ferramentas relacionadas
-├── Cloud/            # Certificados de Computação em Nuvem e ferramentas relacionadas
-├── Segurity/         # Certificados de Segurança da Informação e ferramentas relacionadas
-├── IA/               # Certificados de Inteligência Artificial, conceitos e ferramentas relacionadas
-├── Education/        # Certificados de Formação academica (fundamental, médio, graduações...)
-├── Others/           # Certificados diversos (Agile, Scrum, PO, gestão, idiomas...)
-└── README.md         # Este arquivo
+QA/                    # Certificados de Qualidade de Software e ferramentas relacionadas
+DEV_DEVOPS/            # Certificados de Desenvolvimento de Software e DevOps
+AI/                    # Certificados de Inteligência Artificial, conceitos e ferramentas relacionadas
+SECURITY/              # Certificados de Segurança da Informação e ferramentas relacionadas
+SCRUM/                 # Certificados de metodologias ágeis, Scrum, PO, gestão
+EDUCATION/             # Certificados de formação acadêmica (fundamental, médio, graduações...)
+ENGLISH_LANGUAGE/      # Certificados de idiomas (inglês)
+README.md              # Este arquivo
+```
 
 Cada pasta contém:
    Uma cópia digital de cada certificado (formato PDF ou imagem).
 
 Como Navegar
    Acesse a pasta correspondente à área de interesse, clique no arquivo para visualizar o certificado.
-```
 
 ## Contato
 Se você tiver dúvidas ou quiser saber mais sobre os cursos e certificações, entre em contato comigo pelo meu LinkedIn ou por e-mail.
